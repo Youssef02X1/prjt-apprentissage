@@ -1,8 +1,27 @@
-# prjt-apprentissage
-
-Ceci est mon tout premier dépôt GitHub.  
-Je découvre GitHub et j’apprends à l’utiliser étape par étape !
-
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIOUF CLOSING BY DIOUF BUSNESS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="menu-entete">
+        <header class="entete">
+            <img src="dbt/logo.jpg" alt="logo du site">
+            <nav class="menu">
+               <li>ACCEUIL</li> 
+               <li>PRODUITS</li>
+               <li>CONTACT</li>
+            </nav>
+        </header>
+       <div class="landing-page">
+       <h1>DIOUF CLOSING.</h1>
+       </div>
+    </section>
+</body>
+</html>
 
 
 
