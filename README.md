@@ -48,6 +48,7 @@
      list-style: none;
      color: white;
     }
+</style>
 </head>
 <body>
     <section class="menu-entete">
